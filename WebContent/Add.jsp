@@ -11,6 +11,7 @@
             background-size:100%;
             background-repeat:no-repeat;
         }
+        
         table {
             position: absolute;
             top: 80px;

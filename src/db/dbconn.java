@@ -27,6 +27,7 @@ import Model.Book;
 
 import com.mysql.jdbc.PreparedStatement;
 
+
 public class dbconn {
 	static String driver = "com.mysql.jdbc.Driver";
 	//static String url = "jdbc:mysql://localhost:3306/bookdb?useUnicode=true&characterEncoding=UTF-8";
