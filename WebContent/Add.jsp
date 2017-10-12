@@ -11,7 +11,6 @@
             background-size:100%;
             background-repeat:no-repeat;
         }
-
         table {
             position: absolute;
             top: 80px;
@@ -22,7 +21,6 @@
             background-color: #FCFCFC;
             box-shadow: 2px 2px 5px #888888;
         }
-        
         table thead tr th {
             height: 50px;
             text-align: center;
